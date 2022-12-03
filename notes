@@ -1,0 +1,12 @@
+Find
+Iterates through an array
+Runs a callback on each value in the array
+If the callback returns true at any point, return the value in the array that we’re iterating over
+Otherwise, return undefined
+
+findIndex
+Iterates through an array
+Runs a callback on each value in the array
+If the callback returns true for any single value, return the index at which that value is found
+Otherwise, return -1
+
